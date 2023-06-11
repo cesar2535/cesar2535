@@ -22,6 +22,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </P>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=cesar2535&count_private=true&show_icons=true)
-
-![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar2535&layout=compact)
+![Profile detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cesar2535&theme=nord_dark)
+![Most used by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesar2535&theme=nord_dark)
+![Most used by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesar2535&theme=nord_dark)
+![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cesar2535&theme=nord_dark)
